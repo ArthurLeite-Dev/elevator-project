@@ -11,3 +11,7 @@ This project simulates the logic and movement of an elevator system. The main go
 * **Event Handling:** Managing multiple button clicks and elevator queues.
 * **CSS Transitions:** Creating realistic movement animations.
 * **Problem Solving:** Translating real-world logic (elevator physics/rules) into clean code.
+
+## See the project here: https://arthurleite-dev.github.io/elevator-project/
+
+
